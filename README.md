@@ -1,6 +1,10 @@
 <h1 align="center">💻 Hola Mundo! 🌎</h1>
 <h1 align="center">Soy Brad, Mucho Gusto!</h1>
+<div align="center">
+  
+![banner github](https://github.com/neydan-19/neydan-19/assets/104794554/fc97a58a-d768-4283-84a9-dce97c0be5d3)
 
+</div>
 ## Sobre Mi:
 
 - 🔷 Alumno de Senati ...
